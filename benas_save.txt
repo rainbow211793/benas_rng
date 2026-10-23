@@ -1,7 +1,7 @@
 # Benas RNG save file
-plays = 1
-rng = 877842658
-rolls = 60
-badges = 2
+plays = 2
+rng = 918397570
+rolls = 112
+badges = 3
 b2 = true
-b3 = false
+b3 = true

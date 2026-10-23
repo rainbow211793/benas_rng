@@ -48,6 +48,10 @@ while variables.loop < 5 :
             print(" \"1 in 10\" ")
         if variables.b3 == True :
             print(" \"1 in 100\" ")
+        if variables.b4 == True :
+            print(" \"1 in 1000\" ")
+        if variables.b5 == True :
+            print(" \"1 in 10000\" ")
         print(" ")
     elif ans == "5." or ans == "Quit" or ans == "5" or ans == "5. Quit" or ans == "5. quit" or ans == "quit" :
         variables.loop = 67
